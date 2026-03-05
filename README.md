@@ -17,4 +17,4 @@ A mini interactive Python assistant that checks your mood, energy, and available
 ## How to Play / Run
 Clone the repository:  
 ```bash
-git clone https://github.com/arvinarun/life-mood-assistant.git
+git clone https://github.com/arvinarun/life-and-mood-assistant-v.01.git
