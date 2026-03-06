@@ -1,4 +1,4 @@
-# 🖤 Life & Mood Assistant 🖤
+# 🖤 Roxy V.0.1 🖤
 A mini interactive Python assistant that checks your mood, energy, and available time, then gives personalized workout or self-care suggestions.
 
 *"Your daily vibe matters… let’s make the most of it."* ⚡
@@ -17,4 +17,4 @@ A mini interactive Python assistant that checks your mood, energy, and available
 ## How to Play / Run
 Clone the repository:  
 ```bash
-git clone https://github.com/arvinarun/life-and-mood-assistant-v.01.git
+git clone https://github.com/arvinarun/roxy-v.01.git
