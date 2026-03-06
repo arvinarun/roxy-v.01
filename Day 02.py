@@ -1,5 +1,5 @@
 """
-🖤 Life & Mood Assistant 🖤
+🖤 Roxy V.0.1 🖤
 A simple interactive Python program that checks your mood, energy, 
 and available time, then gives a personalized workout suggestion.
 
@@ -67,4 +67,5 @@ while running:
     again = get_choice("Do you want to answer again? (yes/no): ", ["yes", "no"])
     if again == "no":
         running = False
+
         print("🌟 Have a great day! Keep taking care of yourself!")
